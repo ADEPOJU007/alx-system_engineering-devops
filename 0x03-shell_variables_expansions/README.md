@@ -1,0 +1,1 @@
+Another shell operation that show variables and expansions are executed
